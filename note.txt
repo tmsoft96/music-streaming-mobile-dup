@@ -1,0 +1,19 @@
+// codes in the app meaning
+
+-1 = ID for function not to be perform when passed
+-100 = this ID shows file is about to be uploaded 
+-1000 = all contents
+
+
+
+https://www.youtube.com/watch?v=fhkaDua0rhE
+
+flutter pub cache repair
+
+WidgetsBinding.instance.addPostFrameCallback((_) => setState(...));
+
+https://www.youtube.com/watch?v=fsRKXLsoTrA&ab_channel=MobileProgrammer
+
+
+ firebase_core
+

@@ -1,0 +1,20 @@
+import 'package:flutter/material.dart';
+
+const PRIMARYCOLOR = Color(0xFFfb324f);
+const PRIMARYCOLOR1 = Color.fromARGB(255, 232, 232, 232);
+const BACKGROUND = Color.fromARGB(255, 255, 255, 255);
+const WHITE = Colors.white;
+const BLACK = Color.fromARGB(255, 0, 0, 0);
+const BLACK2 = Color(0xFF1A1A1A);
+const ASHDEEP = Color(0xFFC6C2BA);
+const ASHDEEP1 = Color(0xFFE8E8E8);
+const GREY = Colors.grey;
+const RED = Colors.red;
+const GREEN = Color(0xFF0D8017);
+const GREEN1 = Color(0xFF4BB954);
+const TRANSPENT = Colors.transparent;
+const LIGHTGRAY = Color.fromARGB(255, 206, 206, 206);
+const YELLOW = Colors.yellow;
+const TRANSPARENT = Colors.transparent;
+const BLUE = Color(0xff3699FF);
+const GRADIENT1 = Color(0xffFF6188);
